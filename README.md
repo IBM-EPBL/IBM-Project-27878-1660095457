@@ -2,6 +2,7 @@
 
 # University Admit Eligibility Predictor
 # IBM-Project-27878-1660095457
+# Project Demo Link: https://youtu.be/_Tw9bjJZUB8
 
 # Team Members: 
 - Munagala Sai Raghava
